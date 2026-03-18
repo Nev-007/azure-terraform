@@ -1,0 +1,7 @@
+resource_group_name = "notes-app-rg"
+location = "centralindia"
+
+vm_admin_username = "azureuser"
+vm_admin_password = "YourSecurePassword"
+
+environment = "dev"
